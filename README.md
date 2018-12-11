@@ -126,3 +126,4 @@ This application is comprised of two parts:
 RECEIVE_BOOT_COMPLETED： 开机时启动后台服务以记录剪贴板。据网友反馈服务仅占用 4.5M 到 6M 左右的运行内存。不影响电池续航。真的不想要的话，可以在设置里关闭。
 
 WRITE_EXTERNAL_STORAGE 以及 READ_EXTERNAL_STORAGE： 仅在「导出历史记录」情况下会用到。除此之外不会在存储卡中写入任何文件。
+"# Hello" 
