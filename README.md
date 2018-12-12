@@ -127,3 +127,4 @@ RECEIVE_BOOT_COMPLETED： 开机时启动后台服务以记录剪贴板。据网
 
 WRITE_EXTERNAL_STORAGE 以及 READ_EXTERNAL_STORAGE： 仅在「导出历史记录」情况下会用到。除此之外不会在存储卡中写入任何文件。
 "# Hello" 
+"# Hello_Android" 
